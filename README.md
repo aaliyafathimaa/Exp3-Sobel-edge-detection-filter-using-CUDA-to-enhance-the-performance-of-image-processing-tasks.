@@ -129,9 +129,8 @@ int main() {
 ```
 
 ## Output Explanation
-<img width="501" height="358" alt="Screenshot 2026-05-22 191031" src="https://github.com/user-attachments/assets/648ea380-8945-42dc-b1c5-3877d780be99" />
 
-The program detects the edges present in the input image using the Sobel filter.
+input image using the Sobel filter.
 
 <img width="626" height="446" alt="image" src="https://github.com/user-attachments/assets/802a86a4-891d-4da3-b013-67403bb70f61" />
 
